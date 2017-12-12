@@ -1,0 +1,5 @@
+<resources>
+    <!--富文本编辑框间距-->
+    <dimen name="edit_padding_top">10dp</dimen>
+    <dimen name="dimen_36dip">36dp</dimen>
+</resources>

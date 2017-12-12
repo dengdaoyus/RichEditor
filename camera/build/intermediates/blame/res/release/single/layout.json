@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_enhance.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_enhance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_item_sticker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_item_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_popup_folder.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_popup_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_view_tags.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_view_tags.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_fragment_sticker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_fragment_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_actionbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_view_tag_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_view_tag_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_folder.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_image_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_item_viewpage.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_item_viewpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_sticker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_item_effect.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_item_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_view_tag_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_view_tag_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_crop_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_crop_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_preview_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_preview_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_image_thumb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_image_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_sticker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_filter_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_filter_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_popup_colorpick.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_popup_colorpick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_preview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_list_item_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_list_item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_cut.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_cut.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\layout\\camerasdk_activity_graffiti.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\layout\\camerasdk_activity_graffiti.xml"
+    }
+]

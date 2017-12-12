@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="camerasdk_action_bar">#5a56ec</color>
+    <color name="camerasdk_action_bar_press">#ffffff</color>
+    <color name="camerasdk_divider_color">#cdcdcd</color>
+    <color name="camerasdk_filter_tab_selected">#ffededed</color>
+    <color name="camerasdk_filter_tab_unselected">#ffffffff</color>
+    <color name="camerasdk_frame">#ec584d</color>
+    <color name="camerasdk_guide">#ec584d</color>
+    <color name="camerasdk_handle">#ec584d</color>
+    <color name="camerasdk_main_bg">#26252c</color>
+    <color name="camerasdk_main_bottom_bg">#34343a</color>
+    <color name="camerasdk_main_tools_bg">#26252c</color>
+    <color name="camerasdk_overlay">#AA1C1C1C</color>
+    <color name="camerasdk_txt_normal">#ffffff</color>
+    <color name="camerasdk_txt_selected">#fcb840</color>
+    <declare-styleable name="CameraSDKPagerSlidingTabStrip"><attr format="color" name="camerasdk_pstsIndicatorColor"/><attr format="color" name="camerasdk_pstsUnderlineColor"/><attr format="color" name="camerasdk_pstsDividerColor"/><attr format="dimension" name="camerasdk_pstsIndicatorHeight"/><attr format="dimension" name="camerasdk_pstsUnderlineHeight"/><attr format="dimension" name="camerasdk_pstsDividerPadding"/><attr format="dimension" name="camerasdk_pstsTabPaddingLeftRight"/><attr format="dimension" name="camerasdk_pstsScrollOffset"/><attr format="reference" name="camerasdk_pstsTabBackground"/><attr format="boolean" name="camerasdk_pstsShouldExpand"/><attr format="boolean" name="camerasdk_pstsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="ColorBars"><attr format="dimension" name="bar_thickness"/><attr format="dimension" name="bar_length"/><attr format="dimension" name="bar_pointer_radius"/><attr format="dimension" name="bar_pointer_halo_radius"/><attr format="boolean" name="bar_orientation_horizontal"/></declare-styleable>
+    <declare-styleable name="ColorPicker"><attr format="dimension" name="color_wheel_radius"/><attr format="dimension" name="color_wheel_thickness"/><attr format="dimension" name="color_center_radius"/><attr format="dimension" name="color_center_halo_radius"/><attr format="dimension" name="color_pointer_radius"/><attr format="dimension" name="color_pointer_halo_radius"/></declare-styleable>
+    <declare-styleable name="CropImageView"><attr format="reference" name="imgSrc"/><attr name="cropMode">
+            <enum name="ratio_fit_image" value="0"/>
+            <enum name="ratio_4_3" value="1"/>
+            <enum name="ratio_3_4" value="2"/>
+            <enum name="ratio_1_1" value="3"/>
+            <enum name="ratio_16_9" value="4"/>
+            <enum name="ratio_9_16" value="5"/>
+            <enum name="ratio_free" value="6"/>
+            <enum name="ratio_custom" value="7"/>
+        </attr><attr format="color" name="backgroundColor"/><attr format="color" name="overlayColor"/><attr format="color" name="frameColor"/><attr format="color" name="handleColor"/><attr format="color" name="guideColor"/><attr name="guideShowMode">
+            <enum name="show_always" value="1"/>
+            <enum name="show_on_touch" value="2"/>
+            <enum name="not_show" value="3"/>
+        </attr><attr name="handleShowMode">
+            <enum name="show_always" value="1"/>
+            <enum name="show_on_touch" value="2"/>
+            <enum name="not_show" value="3"/>
+        </attr><attr format="dimension" name="handleSize"/><attr format="dimension" name="touchPadding"/><attr format="dimension" name="minFrameSize"/><attr format="dimension" name="frameStrokeWeight"/><attr format="dimension" name="guideStrokeWeight"/><attr format="boolean" name="cropEnabled"/></declare-styleable>
+    <dimen name="bar_length">240dp</dimen>
+    <dimen name="bar_pointer_halo_radius">14dp</dimen>
+    <dimen name="bar_pointer_radius">6dp</dimen>
+    <dimen name="bar_thickness">4dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="camerasdk_actionbar_height">50dip</dimen>
+    <dimen name="camerasdk_bootom_tab_height">45dip</dimen>
+    <dimen name="color_center_halo_radius">40dp</dimen>
+    <dimen name="color_center_radius">54dp</dimen>
+    <dimen name="color_pointer_halo_radius">16dp</dimen>
+    <dimen name="color_pointer_radius">12dp</dimen>
+    <dimen name="color_wheel_radius">100dp</dimen>
+    <dimen name="color_wheel_thickness">8dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="text_size_m">24sp</dimen>
+    <dimen name="text_size_s">17sp</dimen>
+    <string name="camerasdk_album">选择相册</string>
+    <string name="camerasdk_album_all">相机胶卷</string>
+    <string name="camerasdk_album_button">相册</string>
+    <string name="camerasdk_app_name">camerasdk</string>
+    <string name="camerasdk_back">返回</string>
+    <string name="camerasdk_cancel">取消</string>
+    <string name="camerasdk_delete">删除</string>
+    <string name="camerasdk_images_building">处理图片</string>
+    <string name="camerasdk_msg_amount_limit">已经达到最高选择数量</string>
+    <string name="camerasdk_msg_no_camera">没有系统相机</string>
+    <string name="camerasdk_preview_image">图片预览</string>
+    <string name="camerasdk_tab_cropper">裁剪</string>
+    <string name="camerasdk_tab_enhance">编辑</string>
+    <string name="camerasdk_tab_filter">特效</string>
+    <string name="camerasdk_tab_graffiti">涂鸦</string>
+    <string name="camerasdk_tab_sticker">贴纸</string>
+    <style name="camerasdk_radio_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>       
+        <item name="android:button">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:drawablePadding">3dip</item>
+    </style>
+    <style name="camerasdk_tab_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>       
+        <item name="android:textColor">@color/camerasdk_txt_normal</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:drawablePadding">0dip</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

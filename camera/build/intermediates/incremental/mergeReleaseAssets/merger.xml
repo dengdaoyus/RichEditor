@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Desktop\RichEditor\camera\src\main\assets"><file name="sticker/sticker.txt" path="C:\Users\Administrator\Desktop\RichEditor\camera\src\main\assets\sticker\sticker.txt"/></source><source path="C:\Users\Administrator\Desktop\RichEditor\camera\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Administrator\Desktop\RichEditor\camera\src\release\assets"/></dataSet></merger>

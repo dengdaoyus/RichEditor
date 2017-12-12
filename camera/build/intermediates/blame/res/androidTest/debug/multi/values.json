@@ -1,0 +1,1920 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 60,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 60,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 57,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 57,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 65,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 65,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 67,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 67,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 49,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 49,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 49,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 49,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 50,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 50,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 51,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 51,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 58,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 58,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 57,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 57,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 53,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 53,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 54,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 54,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 56,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 56,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 42,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3705,
+                        "endColumn": 42,
+                        "endOffset": 3743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endColumn": 54,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3748,
+                        "endColumn": 54,
+                        "endOffset": 3798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3803,
+                    "endColumn": 48,
+                    "endOffset": 3847
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3803,
+                        "endColumn": 48,
+                        "endOffset": 3847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3852,
+                    "endColumn": 43,
+                    "endOffset": 3891
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3852,
+                        "endColumn": 43,
+                        "endOffset": 3891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3896,
+                    "endColumn": 44,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3896,
+                        "endColumn": 44,
+                        "endOffset": 3936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 58,
+                    "endOffset": 3995
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3941,
+                        "endColumn": 58,
+                        "endOffset": 3995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4000,
+                    "endColumn": 59,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4000,
+                        "endColumn": 59,
+                        "endOffset": 4055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 55,
+                    "endOffset": 4111
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4060,
+                        "endColumn": 55,
+                        "endOffset": 4111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4116,
+                    "endColumn": 50,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4116,
+                        "endColumn": 50,
+                        "endOffset": 4162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 56,
+                    "endOffset": 4219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4167,
+                        "endColumn": 56,
+                        "endOffset": 4219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4224,
+                    "endColumn": 51,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4224,
+                        "endColumn": 51,
+                        "endOffset": 4271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 50,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4276,
+                        "endColumn": 50,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 51,
+                    "endOffset": 4374
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endColumn": 51,
+                        "endOffset": 4374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4379,
+                    "endColumn": 48,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4379,
+                        "endColumn": 48,
+                        "endOffset": 4423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 42,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4428,
+                        "endColumn": 42,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 40,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4471,
+                        "endColumn": 40,
+                        "endOffset": 4507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 42,
+                    "endOffset": 4550
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4512,
+                        "endColumn": 42,
+                        "endOffset": 4550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4555,
+                    "endColumn": 42,
+                    "endOffset": 4593
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4555,
+                        "endColumn": 42,
+                        "endOffset": 4593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4598,
+                    "endColumn": 48,
+                    "endOffset": 4642
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4598,
+                        "endColumn": 48,
+                        "endOffset": 4642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4647,
+                    "endColumn": 52,
+                    "endOffset": 4695
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 52,
+                        "endOffset": 4695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4700,
+                    "endColumn": 53,
+                    "endOffset": 4749
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4700,
+                        "endColumn": 53,
+                        "endOffset": 4749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4754,
+                    "endColumn": 56,
+                    "endOffset": 4806
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4754,
+                        "endColumn": 56,
+                        "endOffset": 4806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4811,
+                    "endColumn": 45,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4811,
+                        "endColumn": 45,
+                        "endOffset": 4852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endColumn": 47,
+                    "endOffset": 4900
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4857,
+                        "endColumn": 47,
+                        "endOffset": 4900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4905,
+                    "endColumn": 47,
+                    "endOffset": 4948
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endColumn": 47,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4953,
+                    "endColumn": 58,
+                    "endOffset": 5007
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4953,
+                        "endColumn": 58,
+                        "endOffset": 5007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5012,
+                    "endColumn": 65,
+                    "endOffset": 5073
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5012,
+                        "endColumn": 65,
+                        "endOffset": 5073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5078,
+                    "endColumn": 58,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5078,
+                        "endColumn": 58,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endColumn": 56,
+                    "endOffset": 5189
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endColumn": 56,
+                        "endOffset": 5189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5194,
+                    "endColumn": 52,
+                    "endOffset": 5242
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 52,
+                        "endOffset": 5242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5247,
+                    "endColumn": 52,
+                    "endOffset": 5295
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5247,
+                        "endColumn": 52,
+                        "endOffset": 5295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5300,
+                    "endColumn": 51,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5300,
+                        "endColumn": 51,
+                        "endOffset": 5347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 53,
+                    "endOffset": 5401
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5352,
+                        "endColumn": 53,
+                        "endOffset": 5401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5406,
+                    "endColumn": 52,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5406,
+                        "endColumn": 52,
+                        "endOffset": 5454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 6026
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5459,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 6026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6031,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 6602
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6031,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 6602
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 60,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 60,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 57,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 57,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 65,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 65,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 67,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 67,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 49,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 49,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 49,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 49,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 50,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 50,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 51,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 51,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 58,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 58,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 57,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 57,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 53,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 53,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 54,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 54,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 56,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 56,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 42,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3705,
+                        "endColumn": 42,
+                        "endOffset": 3743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endColumn": 54,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3748,
+                        "endColumn": 54,
+                        "endOffset": 3798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3803,
+                    "endColumn": 48,
+                    "endOffset": 3847
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3803,
+                        "endColumn": 48,
+                        "endOffset": 3847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3852,
+                    "endColumn": 43,
+                    "endOffset": 3891
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3852,
+                        "endColumn": 43,
+                        "endOffset": 3891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3896,
+                    "endColumn": 44,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3896,
+                        "endColumn": 44,
+                        "endOffset": 3936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 58,
+                    "endOffset": 3995
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3941,
+                        "endColumn": 58,
+                        "endOffset": 3995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4000,
+                    "endColumn": 59,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4000,
+                        "endColumn": 59,
+                        "endOffset": 4055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 55,
+                    "endOffset": 4111
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4060,
+                        "endColumn": 55,
+                        "endOffset": 4111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4116,
+                    "endColumn": 50,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4116,
+                        "endColumn": 50,
+                        "endOffset": 4162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 56,
+                    "endOffset": 4219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4167,
+                        "endColumn": 56,
+                        "endOffset": 4219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4224,
+                    "endColumn": 51,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4224,
+                        "endColumn": 51,
+                        "endOffset": 4271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 50,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4276,
+                        "endColumn": 50,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 51,
+                    "endOffset": 4374
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endColumn": 51,
+                        "endOffset": 4374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4379,
+                    "endColumn": 48,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4379,
+                        "endColumn": 48,
+                        "endOffset": 4423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 42,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4428,
+                        "endColumn": 42,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 40,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4471,
+                        "endColumn": 40,
+                        "endOffset": 4507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 42,
+                    "endOffset": 4550
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4512,
+                        "endColumn": 42,
+                        "endOffset": 4550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4555,
+                    "endColumn": 42,
+                    "endOffset": 4593
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4555,
+                        "endColumn": 42,
+                        "endOffset": 4593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4598,
+                    "endColumn": 48,
+                    "endOffset": 4642
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4598,
+                        "endColumn": 48,
+                        "endOffset": 4642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4647,
+                    "endColumn": 52,
+                    "endOffset": 4695
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 52,
+                        "endOffset": 4695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4700,
+                    "endColumn": 53,
+                    "endOffset": 4749
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4700,
+                        "endColumn": 53,
+                        "endOffset": 4749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4754,
+                    "endColumn": 56,
+                    "endOffset": 4806
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4754,
+                        "endColumn": 56,
+                        "endOffset": 4806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4811,
+                    "endColumn": 45,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4811,
+                        "endColumn": 45,
+                        "endOffset": 4852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endColumn": 47,
+                    "endOffset": 4900
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4857,
+                        "endColumn": 47,
+                        "endOffset": 4900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4905,
+                    "endColumn": 47,
+                    "endOffset": 4948
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endColumn": 47,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4953,
+                    "endColumn": 58,
+                    "endOffset": 5007
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4953,
+                        "endColumn": 58,
+                        "endOffset": 5007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5012,
+                    "endColumn": 65,
+                    "endOffset": 5073
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5012,
+                        "endColumn": 65,
+                        "endOffset": 5073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5078,
+                    "endColumn": 58,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5078,
+                        "endColumn": 58,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endColumn": 56,
+                    "endOffset": 5189
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endColumn": 56,
+                        "endOffset": 5189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5194,
+                    "endColumn": 52,
+                    "endOffset": 5242
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 52,
+                        "endOffset": 5242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5247,
+                    "endColumn": 52,
+                    "endOffset": 5295
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5247,
+                        "endColumn": 52,
+                        "endOffset": 5295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5300,
+                    "endColumn": 51,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5300,
+                        "endColumn": 51,
+                        "endOffset": 5347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 53,
+                    "endOffset": 5401
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5352,
+                        "endColumn": 53,
+                        "endOffset": 5401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5406,
+                    "endColumn": 52,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5406,
+                        "endColumn": 52,
+                        "endOffset": 5454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 6026
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5459,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 6026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6031,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 6602
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\RichEditor\\camera\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6031,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 6602
+                    }
+                }
+            }
+        ]
+    }
+]

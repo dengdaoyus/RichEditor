@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\anim\\camerasdk_push_up_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\anim\\camerasdk_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\anim\\camerasdk_tag_white.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\anim\\camerasdk_tag_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\anim\\camerasdk_tag_black.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\anim\\camerasdk_tag_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\anim\\camerasdk_push_up_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\anim\\camerasdk_push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\build\\intermediates\\res\\merged\\release\\anim\\camerasdk_push_bottom_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RichEditor_Ding\\RichEditor\\camera\\src\\main\\res\\anim\\camerasdk_push_bottom_in.xml"
+    }
+]
