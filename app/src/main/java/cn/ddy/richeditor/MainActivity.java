@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         if (resultCode == RESULT_OK && requestCode != -1) {
             if (data != null) {
+                //将返回的数据直接插入就可以了
+                //当然在插入的时候 可以先将图片压缩一下，这里我推荐使用luban
                 CameraSdkParameterInfo mCameraSdkParameterInfo = (CameraSdkParameterInfo) data.getExtras().getSerializable(CameraSdkParameterInfo.EXTRA_PARAMETER);
                 for (int i = 0; i <mCameraSdkParameterInfo.getImage_list().size() ; i++) {
                     richTextEditor.insertImage(mCameraSdkParameterInfo.getImage_list().get(i));

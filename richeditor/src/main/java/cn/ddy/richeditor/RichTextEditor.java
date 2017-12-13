@@ -76,23 +76,24 @@ public class RichTextEditor extends ObservableScrollView {
         FrameLayout.LayoutParams layoutParams = new FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT,
                 FrameLayout.LayoutParams.WRAP_CONTENT);
         addView(allLayout, layoutParams);
-        setScrollViewCallbacks(new ObservableScrollViewCallbacks() {
-            @Override
-            public void onScrollChanged(int scrollY, boolean firstScroll, boolean dragging) {
-                if (richTextEditorOnScrollChanged != null)
-                    richTextEditorOnScrollChanged.OnScrollChanged();
-            }
-
-            @Override
-            public void onDownMotionEvent() {
-
-            }
-
-            @Override
-            public void onUpOrCancelMotionEvent(ScrollState scrollState) {
-
-            }
-        });
+        //滑动监听收回键盘在滑动在最底部的时候会产生冲突， 这里我直接监听的是图片的onTouch事件 发现比较好用
+//        setScrollViewCallbacks(new ObservableScrollViewCallbacks() {
+//            @Override
+//            public void onScrollChanged(int scrollY, boolean firstScroll, boolean dragging) {
+//                if (richTextEditorOnScrollChanged != null)
+//                    richTextEditorOnScrollChanged.OnScrollChanged();
+//            }
+//
+//            @Override
+//            public void onDownMotionEvent() {
+//
+//            }
+//
+//            @Override
+//            public void onUpOrCancelMotionEvent(ScrollState scrollState) {
+//
+//            }
+//        });
         // 2. 初始化键盘退格监听
         // 主要用来处理点击回删按钮时，view的一些列合并操作
         keyListener = new OnKeyListener() {
@@ -136,8 +137,7 @@ public class RichTextEditor extends ObservableScrollView {
 //        //默认添加一个输入框
         LinearLayout.LayoutParams firstEditParam = new LinearLayout.LayoutParams(
                 FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT);
-        EditText firstEdit = createEditText("请输入文章内容...",
-                dip2px(EDIT_PADDING));
+        EditText firstEdit = createEditText("请输入文章内容...", dip2px(EDIT_PADDING));
         allLayout.addView(firstEdit, firstEditParam);
         lastFocusEdit = firstEdit;
         lastFocusEdit.requestFocus();
@@ -211,7 +211,6 @@ public class RichTextEditor extends ObservableScrollView {
 
             @Override
             public void afterTextChanged(Editable s) {
-
                 getWordTotal();
             }
         });
@@ -228,10 +227,7 @@ public class RichTextEditor extends ObservableScrollView {
         closeView.setOnTouchListener(new OnTouchListener() {
             @Override
             public boolean onTouch(View view, MotionEvent motionEvent) {
-                if (richTextEditorOnTouch != null) {
-                    return richTextEditorOnTouch.OnTouchListener();
-                }
-                return false;
+                return richTextEditorOnTouch != null && richTextEditorOnTouch.OnTouchListener();
             }
         });
         closeView.setOnClickListener(imgListener);
@@ -288,7 +284,6 @@ public class RichTextEditor extends ObservableScrollView {
         EditText editText2 = createEditText("", getResources()
                 .getDimensionPixelSize(R.dimen.edit_padding_top));
         editText2.setText(editStr);
-
         // 请注意此处，EditText添加、或删除不触动Transition动画
         allLayout.setLayoutTransition(null);
         allLayout.addView(editText2, index);
@@ -326,7 +321,7 @@ public class RichTextEditor extends ObservableScrollView {
         RelativeLayout.LayoutParams lp = new RelativeLayout.LayoutParams(
                 FrameLayout.LayoutParams.MATCH_PARENT, imageHeight);
         imageView.setLayoutParams(lp);
-        // onActivityResult无法触发动画，此处post处理
+        // onActivityResult无法触发动画，此处post处理  注意 在添加多图的时候如果用post 会出现两张图片挨着 中间没有添加EditText，  原因是因为延迟
         // allLayout.postDelayed(() -> {
         allLayout.addView(imageLayout, index);
         if (isFirst)
